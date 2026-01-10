@@ -14,3 +14,6 @@ i worked on errors and types of errors i worked on try and execept methods and a
 
 day 4
 i learned the difference between list and tuple and also i did maximum in dictonary and also removed duplicates in list and also user login system 
+
+day 5
+i learned about the class and objects and learner about how to create mathods inisde class and created a bank system with application of class object and encapsulation 
