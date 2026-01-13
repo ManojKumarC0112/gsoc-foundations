@@ -17,3 +17,7 @@ i learned the difference between list and tuple and also i did maximum in dicton
 
 day 5
 i learned about the class and objects and learner about how to create mathods inisde class and created a bank system with application of class object and encapsulation 
+
+
+day 6
+i learned how to import things from an other folder and to create a venv and also to create a requriements.txt and also how to gitignore 
